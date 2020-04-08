@@ -1,7 +1,6 @@
-# ProCabulary 
-<center>
 ![project_thumb](img/project_thumb.png)
-</center>
+# ProCabulary 
+![poster](img/poster.jpg)
 
 ProCabulary is the HCI(Human Computer Interaction) project I participated in [CSE440](https://courses.cs.washington.edu/courses/cse440/20wi/) at University of Washington Paul G. Allen School of Computer Science and Engineering. In this project, we as a group examined problems people encounter in gathering and gaining value from personal data, then explored how a combination of design and machine intelligence can help go beyond simple data fetishes to help people in using personal data as part of reaching their goals.
 
@@ -14,10 +13,6 @@ Through our user research, including semi-structured interviews as well as surve
 We then conducted several testing processes, including Heuristic Evaluation with 3 of our potential target users, design critique with TAs as well as other groups during sections and 3 usability testings with another 3 potential target users. By performing testings, we compiled and gained enough feedback and suggestions for us to refine our design with our primary tasks in mind and design for our target users.
 
 Finally, we transformed our paper prototype to digital mockups with key design principles in mind. In this process, we also made several necessary changes when considering the design patterns and guidelines on mobile platform.
-
-<center>
-![poster](img/poster.jpg)
-</center>
 
 More details can be found at: https://courses.cs.washington.edu/courses/cse440/20wi/projects/procabulary/
 
